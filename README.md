@@ -5,7 +5,7 @@ Computer Algebra problem using SymPy . Projects in course https://www.e-ce.uth.g
 
 #Creators: 
 
-           Chouliaras Konstantinos @Chouliar 
+           Chouliaras G. Konstantinos @Chouliar 
 
            Astli John @
           
