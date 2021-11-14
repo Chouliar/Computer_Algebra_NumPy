@@ -3,10 +3,11 @@ Computer Algebra problem using SymPy . Projects in course https://www.e-ce.uth.g
 
 
 #Creators: Chouliaras Konstantinos @Chouliar 
-          Astli John 
+
+           Astli John @
           
           
-#Contents: 
+#Contents: Inside all folders there is a report wich contains the description of each question (in Greek) where the following functions where used 
 
           #Folder 1 : Extended GCD (Euclid)
                       GCD Counter
