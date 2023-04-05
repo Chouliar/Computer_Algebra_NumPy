@@ -7,7 +7,7 @@ Computer Algebra problem using SymPy . Projects in course https://www.e-ce.uth.g
 
            Chouliaras G. Konstantinos @Chouliar 
 
-           Astli John @
+           Astli John @JohnAstli https://github.com/JohnAstli
           
           
 #Contents: Inside all folders there is a report wich contains the description of each question (in Greek) where the following functions where used 
